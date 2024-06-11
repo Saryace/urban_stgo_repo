@@ -1,0 +1,2 @@
+## Data repositoty of urban soil and tree
+1. ´tree_campus_sj.csv´: Data of tree species and number in the San Joaquin Campus from [SustentabilidadUC](https://sustentable.uc.cl/wp-content/uploads/2023/08/Proyecto-Sistema-Georreferenciacion-Campus-1_compressed-1.pdf) 
